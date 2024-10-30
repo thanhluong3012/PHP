@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+#container{
+    height: 750px;
+    width: 1000px;
+}
+#banner{
+	float: left;
+	height:150px;
+	width: 1000px;
+	background-color: #91ABEB;
+}
+#main{
+    float: left;
+    height: 500px;
+    width: 1000px;
+    text-align: center;
+}
+#sanpham{
+	float: left;
+	height:220px;
+	width: 150px;
+	border:solid 2px #1f1fc5;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+#sanpham_ten{
+	float: left;
+	height:20px;
+	padding-top:5px;
+	border-bottom: solid 2px #1f1fc5;
+	width: 100%;
+	text-align:center;
+	color:red;
+	font-weight:bold;
+}
+#sanpham_hinh{
+	float: left;
+	height:170px;
+	width: 100%;
+}
+#sanpham_gia{
+	float: left;
+	height:20px;
+	padding-top:5px;
+	width: 100%;
+	border-top: solid 2px #1f1fc5;
+	text-align:center;
+	color:red;
+	font-weight:bold;
+}
+#left{
+	float: left;
+	height:500px;
+	width: 150px;
+	background-color: #D4D3E7;
+}
+#right{
+	float: right;
+	height: 500px;
+	width:848px;
+	background-color: #D4D3E7;
+}
+#footer{
+	float: left;
+	height:100px;
+	width: 1000px;
+	background-color: #c2bf33;
+}
